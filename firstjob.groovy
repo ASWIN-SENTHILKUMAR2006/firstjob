@@ -5,7 +5,6 @@ stage('Checkout Code') {
 steps {
 git 'https://github.com/your-repo/sample-project.git'
 }
-MKCE_CSE Page 26
 }
 stage('Build') {
 steps {
